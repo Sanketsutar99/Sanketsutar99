@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there! I'm Sanket Sutar</h1> 
+<h3 align="center">💻 Student | 🌐 Developer | 🚀 Tech Enthusiast</h3>
 
-<!--
-**Sanketsutar99/Sanketsutar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanket-sutar&label=👀%20Profile%20Views&color=blue&style=flat" alt="profile-views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🎓 **Curious Student** exploring the endless tech universe 🌌  
+- 💻 **Developer** who loves turning ideas into reality 💡  
+- 🛠 **Skills:** HTML 🖋, CSS 🎨, JavaScript ⚡, Python 🐍, MATLAB 📊  
+- 📫 **Reach Me At:** [📧 sanket@example.com](mailto:sanket@example.com)  
+- ⚡ **Fun Fact:** I debug with coffee ☕ and dance when the code finally works 🎉  
+
+---
+
+## 🛠 Tech Stack & Too
